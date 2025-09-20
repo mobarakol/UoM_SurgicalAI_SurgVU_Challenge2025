@@ -32,8 +32,7 @@ python  DCT_fine_tune.py`
 ## Inference Command
 Take file InferenceVL_3_5-4B_Zero-Shot-Inferencing.py as example. You need to set the dataset path in line 568, set the output path in line 589, and set your Huggingface token in line 37.
 ```
-python InferenceVL_3_5-4B_Zero-Shot-Inferencing.py`
-
+python InferenceVL_3_5-4B_Zero-Shot-Inferencing.py
 ```
 
 ## Docker Building
