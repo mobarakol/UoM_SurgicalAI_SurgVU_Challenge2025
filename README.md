@@ -20,6 +20,9 @@ The dataset building details and progress is introduced in the readme file in th
 ## Pretrained Weights
 The pretrained weights will be released soon
 
+## Fine-tuning & Inference required libs
+the reuqired libs are listed in the requirements.txt file
+
 ## Training Command
 Take file DCT_fine_tune.py as example. To run the Fine-tuning code, you need to modify the path of your model downloading path in line 41 and 42 and set your Huggingface token in line 36.
 Then you can run the code through command below:
